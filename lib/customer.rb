@@ -29,6 +29,9 @@ class Customer
     end
   end
 
+def most_frequent_customer
+end
 
-
+def worst_tipper
+end
 end
